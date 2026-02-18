@@ -1,0 +1,14 @@
+{
+    "name": "autoshop/management-system",
+    "description": "Auto Shop Management System",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name"
+        }
+    ]
+}

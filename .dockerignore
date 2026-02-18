@@ -1,0 +1,10 @@
+.git
+.gitignore
+README.md
+DEPLOYMENT_GUIDE.md
+RENDER_DEPLOYMENT.md
+FTP_UPLOAD_GUIDE.md
+STRUCTURE_GUIDE.md
+LICENSE
+.vscode
+.idea
